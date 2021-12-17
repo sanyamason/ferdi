@@ -91,7 +91,7 @@
     "mobx": "5.15.0",
     "mobx-localstorage": "1.2.0",
     "mobx-react": "5.4.2",
-    "mobx-react-form": "1.35.1",
+    "mobx-react-form": "1.39.1",
     "mobx-react-router": "3.1.2",
     "moment": "2.29.1",
     "ms": "2.1.3",
