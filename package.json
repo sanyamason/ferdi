@@ -88,7 +88,7 @@
     "macos-version": "5.2.1",
     "mime-types": "2.1.33",
     "minimist": "1.2.5",
-    "mobx": "5.15.0",
+    "mobx": "5.15.7",
     "mobx-localstorage": "1.2.0",
     "mobx-react": "5.4.2",
     "mobx-react-form": "1.35.1",
